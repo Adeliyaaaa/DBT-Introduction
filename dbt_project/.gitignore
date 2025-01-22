@@ -1,0 +1,14 @@
+
+target/
+dbt_packages/
+logs/
+dbt_env/
+dbt_project/analyses
+dbt_project/logs/dbt.log
+dbt_project/macros
+dbt_project/seeds
+dbt_project/snapshots
+dbt_project/target
+dbt_project/test
+dbt_project/dbt_packages
+dbt_project/run_dbt.py
